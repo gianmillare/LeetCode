@@ -1,3 +1,3 @@
-# LeetCode
-A repository documenting my LeetCode solutions.
-----------------------------------------------------------------------------------------------------------
+# LeetCode 
+### Solutions by Gian Millare
+
