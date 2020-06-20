@@ -20,3 +20,11 @@
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/add_binary.py) | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/sqrt_x.py) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/climbing_stairs.py) | Easy |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/remove_duplicates_from_sorted_list.py) | Easy |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/merge_sorted_array.py) | Easy |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/same_tree.py) | Easy |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/symmetric_tree.py) | Easy |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/maximum_depth_of_binary_tree.py) | Easy |
+| 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/binary_tree_level_order_traversal_II.py) | Easy |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/convert_sorted_array_to_binary_search_tree.py) | Easy |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/kids_with_greatest_number_of_candies.ipynb) | Easy |
