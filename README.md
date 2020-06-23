@@ -27,4 +27,7 @@
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/maximum_depth_of_binary_tree.py) | Easy |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/binary_tree_level_order_traversal_II.py) | Easy |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/convert_sorted_array_to_binary_search_tree.py) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/best_time_to_buy_and_sell_stock.py) | Easy |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/valid_palindrome.py) | Easy |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/single_number.py) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/kids_with_greatest_number_of_candies.ipynb) | Easy |
