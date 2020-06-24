@@ -30,4 +30,7 @@
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/best_time_to_buy_and_sell_stock.py) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/valid_palindrome.py) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/single_number.py) | Easy |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/two_sum_II_input_array_is_sorted.py) | Easy |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/excel_sheet_column_title.py) | Easy |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/majority_element.py) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/kids_with_greatest_number_of_candies.ipynb) | Easy |
