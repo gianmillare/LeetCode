@@ -33,4 +33,5 @@
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/two_sum_II_input_array_is_sorted.py) | Easy |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/excel_sheet_column_title.py) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/majority_element.py) | Easy |
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/factorial_trailing_zeroes.py) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/kids_with_greatest_number_of_candies.ipynb) | Easy |
