@@ -35,3 +35,4 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/majority_element.py) | Easy |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/factorial_trailing_zeroes.py) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/kids_with_greatest_number_of_candies.ipynb) | Easy |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/running_sum_of_1d_array.py) | Easy |
