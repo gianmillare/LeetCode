@@ -35,6 +35,7 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/majority_element.py) | Easy |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/factorial_trailing_zeroes.py) | Easy |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/house_robber.py) | Easy |
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/flipping_an_image.py) | Easy |
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/replace_elements_with_greatest_element_on_right_side.py) | Easy |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/find_n_unique_integers_sum_up_to_zero.py) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/kids_with_greatest_number_of_candies.ipynb) | Easy |
