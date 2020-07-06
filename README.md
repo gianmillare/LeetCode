@@ -3,7 +3,7 @@
 | Number (#)  | Title | Solution | Difficulty |
 | ------------- | ------------- | ------------- | ------------- |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/two_sum.py) [JavaScript](https://github.com/gianmillare/LeetCode/blob/master/javascript/easy/two_sum.js) | Easy |
-| 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/reverse_integer.py)  | Easy |
+| 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/reverse_integer.py) [JavaScript](https://github.com/gianmillare/LeetCode/blob/master/javascript/easy/reverse_integer.js) | Easy |
 | 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/palindrome_number.py) | Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/roman_to_integer.py) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/longest_common_prefix.py) | Easy |
