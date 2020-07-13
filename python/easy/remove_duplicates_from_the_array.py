@@ -1,7 +1,7 @@
 def removeDuplicates(nums):
   index = 0
 
-  for i in range(0, len(nums)):
+  for index in range(0, len(nums)):
     if nums[index] in nums[index+1:]:
       nums.remove(nums[index])
     else:
