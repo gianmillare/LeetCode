@@ -35,7 +35,7 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/majority_element.py) | Easy |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/factorial_trailing_zeroes.py) | Easy |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/house_robber.py) | Easy |
-| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/to_lower_case.py) |Easy |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/to_lower_case.py) [JavaScript](https://github.com/gianmillare/LeetCode/blob/master/javascript/easy/to_lower_case.js) |Easy |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/flipping_an_image.py) | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/squares_of_a_sorted_array.py) | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/gianmillare/LeetCode/blob/master/python/easy/defanging_an_ip_address.py) | Easy |
